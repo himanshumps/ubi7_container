@@ -1,2 +1,2 @@
-FROM registry.access.redhat.com/ubi7/ubi
+FROM centos:7
 USER root
